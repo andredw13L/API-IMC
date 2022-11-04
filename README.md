@@ -8,7 +8,7 @@
 
 ### Exportação ###
 
-*É possível exportar o resultado da requisição em CSV, trocando a url no modelo*  [Modelo] ()
+*É possível exportar o resultado da requisição em CSV, trocando a url no modelo*  [Modelo]()
 
 #### Tecnologias utilizadas #####
 *Feito com Python, utilizando o framework Flask na plataforma* [Replit](https://replit.com/)
@@ -16,4 +16,4 @@
 **E com notebooks Jupyter, a exportação é feita com Request e Pandas**
 
 ##### Referência #####
-*Projeto feito em aula, com base no que foi pedido pelo professor* [Edson de Melo Souza] (https://github.com/edsonmsouza)
+*Projeto feito em aula, com base no que foi pedido pelo professor* [Edson de Melo Souza](https://github.com/edsonmsouza)
