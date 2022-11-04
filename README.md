@@ -16,4 +16,4 @@
 **E com notebooks Jupyter, a exportação é feita com Request e Pandas**
 
 ##### Referência #####
-*Projeto feito em aula, com base no que foi pedido pelo professor* [Edson de Melo Souza](https://github.com/edsonmsouza)
+*Projeto feito em aula, com base no que foi pedido pelo professor* [Edson Melo de Souza](https://github.com/edsonmsouza)
