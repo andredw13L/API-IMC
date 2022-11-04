@@ -11,7 +11,7 @@
 *É possível exportar o resultado da requisição em CSV, trocando a url no modelo*  [Modelo] ()
 
 #### Tecnologias utilizadas #####
-*Feito com Python, utilizando o framework Flask na plataforma* [Replit] (https://replit.com/)
+*Feito com Python, utilizando o framework Flask na plataforma* [Replit](https://replit.com/)
 
 **E com notebooks Jupyter, a exportação é feita com Request e Pandas**
 
