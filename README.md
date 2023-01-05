@@ -3,7 +3,7 @@
 ## Minha primeira API
 *Essa API espera: Nome, Gênero: M ou F, peso, altura e lingaugem: pt_br ou eng*
 
-**EX: https://similarpowerlessnetwork.andrevinicius2.repl.co/imc/André/M/74/1.75/pt_br**
+**EX: https://api-IMC.andrevinicius2.repl.co/imc/André/M/74/1.75/pt_br**
 
 
 ### Exportação ###
